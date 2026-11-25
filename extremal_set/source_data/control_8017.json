@@ -1,0 +1,41 @@
+{
+ "n": 8017,
+ "control_full_scan": {
+  "H_zero": true,
+  "bound": 4743378,
+  "NR_shifts": 82986,
+  "L1_fail_count": 0,
+  "min_budget_gap": "5/2",
+  "argmin_gap_configs": [
+   {
+    "p": 19,
+    "K": 2009,
+    "qs": [
+     7,
+     41
+    ],
+    "residues_mod_p": [
+     7,
+     3
+    ],
+    "k": 2,
+    "index_m": 1,
+    "R": 4,
+    "N_neg1": 0,
+    "neg1_in_H": true,
+    "margin": "0",
+    "phiS": "9/2",
+    "budget_gap_phiS_minus_2m": "5/2"
+   }
+  ],
+  "wall_s": 21.896
+ },
+ "search_stageB_full_scan": {
+  "bound": 4743378,
+  "NR_shifts_scanned": 82986,
+  "evals": 82986,
+  "H_zero": true,
+  "late_witness": null,
+  "wall_s": 4.105
+ }
+}

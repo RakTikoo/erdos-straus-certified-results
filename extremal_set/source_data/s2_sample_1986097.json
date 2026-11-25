@@ -1,0 +1,163 @@
+{
+ "n": 1986097,
+ "sample_size": 26,
+ "mismatches": 0,
+ "checks": [
+  {
+   "p": 19,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 19,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 59,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 71,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 79,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 83,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 103,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 107,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 131,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 163,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 179,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 199,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 211,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 223,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 239,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 251,
+   "agree": true,
+   "brute_R": 32,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 271,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 283,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 311,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 331,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 347,
+   "agree": true,
+   "brute_R": 4,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 359,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 367,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 443,
+   "agree": true,
+   "brute_R": 16,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 463,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  },
+  {
+   "p": 491,
+   "agree": true,
+   "brute_R": 8,
+   "brute_N_neg1": 0
+  }
+ ]
+}
